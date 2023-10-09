@@ -1,0 +1,14 @@
+.login_layout{
+background-color: aqua;
+display: flex;
+justify-content: space-between;
+margin-top: 1%;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+.login_layout input{
+    width: 100%;
+}
+
+

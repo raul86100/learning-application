@@ -20,7 +20,7 @@ function Signup() {
         <div><input type="number" placeholder='Mobile number'/></div>
         <div><input type="text" placeholder='Password'/></div>
         <div><input type="password" placeholder='confirm Password'/></div>
-        <div className='checkbox'><input type="checkbox"/><p> Terms and conditions are applyed</p></div>
+        <div className='checkbox'><input type="checkbox"/><p> Terms & conditions are applyed</p></div>
         <div><input type="submit" value="Register"/></div>
 
         
